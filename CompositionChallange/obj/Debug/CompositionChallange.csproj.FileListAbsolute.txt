@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\bin\Debug\CompositionChallange.exe.config
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\bin\Debug\CompositionChallange.exe
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\bin\Debug\CompositionChallange.pdb
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\obj\Debug\CompositionChallange.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\obj\Debug\CompositionChallange.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\obj\Debug\CompositionChallange.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\obj\Debug\CompositionChallange.exe
+C:\Users\sande\source\repos\CompositionChallange\CompositionChallange\obj\Debug\CompositionChallange.pdb

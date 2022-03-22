@@ -8,22 +8,22 @@ namespace CompositionChallange.Entities
 {
     internal class OrderItem
     {
+        public Product product { get; set; }
         public int Quantity { get; set; }
-        public double Price { get; set; }
-
         public OrderItem()
         {
         }
 
-        public OrderItem(int quantity, double price)
+        public OrderItem(Product product,int quantity)
         {
             Quantity = quantity;
-            Price = price;
+            this.product = product;
+            
         }
 
         public double SubTotal()
         {
-            return Quantity * Price;
+            return Quantity * product.Price;
         }
     }
 }
